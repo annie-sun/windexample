@@ -1,0 +1,358 @@
+state,abb,time,win
+Alabama,AL,12AM,4
+Alaska,AK,12AM,7
+Arizona,AZ,12AM,6
+Arkansas,AR,12AM,2
+California,CA,12AM,3
+Colorado,CO,12AM,5
+Connecticut,CT,12AM,3
+Delaware,DE,12AM,8
+District of Columbia,DC,12AM,6
+Florida,FL,12AM,18
+Georgia,GA,12AM,9
+Hawaii,HI,12AM,13
+Idaho,ID,12AM,15
+Illinois,IL,12AM,12
+Indiana,IN,12AM,6
+Iowa,IA,12AM,3
+Kansas,KS,12AM,2
+Kentucky,KY,12AM,4
+Louisiana,LA,12AM,4
+Maine,ME,12AM,13
+Maryland,MD,12AM,5
+Massachusetts,MA,12AM,6
+Michigan,MI,12AM,9
+Minnesota,MN,12AM,5
+Mississippi,MS,12AM,2
+Missouri,MO,12AM,5
+Montana,MT,12AM,9
+Nebraska,NE,12AM,18
+Nevada,NV,12AM,2
+New Hampshire,NH,12AM,13
+New Jersey,NJ,12AM,8
+New Mexico,NM,12AM,20
+New York,NY,12AM,19
+North Carolina,NC,12AM,9
+North Dakota,ND,12AM,61
+Ohio,OH,12AM,1
+Oklahoma,OK,12AM,3
+Oregon,OR,12AM,3
+Pennsylvania,PA,12AM,12
+Rhode Island,RI,12AM,10
+South Carolina,SC,12AM,4
+South Dakota,SD,12AM,8
+Tennessee,TN,12AM,6
+Texas,TX,12AM,2
+Utah,UT,12AM,2
+Vermont,VT,12AM,6
+Virginia,VA,12AM,8
+Washington,WA,12AM,6
+West Virginia,WV,12AM,18
+Wisconsin,WI,12AM,5
+Wyoming,WY,12AM,5
+Alabama,AL,1AM,4
+Alaska,AK,1AM,7
+Arizona,AZ,1AM,6
+Arkansas,AR,1AM,2
+California,CA,1AM,3
+Colorado,CO,1AM,5
+Connecticut,CT,1AM,3
+Delaware,DE,1AM,9
+District of Columbia,DC,1AM,6
+Florida,FL,1AM,12
+Georgia,GA,1AM,9
+Hawaii,HI,1AM,13
+Idaho,ID,1AM,15
+Illinois,IL,1AM,128
+Indiana,IN,1AM,6
+Iowa,IA,1AM,3
+Kansas,KS,1AM,2
+Kentucky,KY,1AM,4
+Louisiana,LA,1AM,4
+Maine,ME,1AM,13
+Maryland,MD,1AM,5
+Massachusetts,MA,1AM,6
+Michigan,MI,1AM,9
+Minnesota,MN,1AM,5
+Mississippi,MS,1AM,2
+Missouri,MO,1AM,67
+Montana,MT,1AM,9
+Nebraska,NE,1AM,18
+Nevada,NV,1AM,2
+New Hampshire,NH,1AM,13
+New Jersey,NJ,1AM,8
+New Mexico,NM,1AM,20
+New York,NY,1AM,19
+North Carolina,NC,1AM,9
+North Dakota,ND,1AM,6
+Ohio,OH,1AM,11
+Oklahoma,OK,1AM,3
+Oregon,OR,1AM,3
+Pennsylvania,PA,1AM,12
+Rhode Island,RI,1AM,1
+South Carolina,SC,1AM,4
+South Dakota,SD,1AM,8
+Tennessee,TN,1AM,6
+Texas,TX,1AM,2
+Utah,UT,1AM,2
+Vermont,VT,1AM,6
+Virginia,VA,1AM,8
+Washington,WA,1AM,6
+West Virginia,WV,1AM,18
+Wisconsin,WI,1AM,5
+Wyoming,WY,1AM,5
+Alabama,AL,2AM,4
+Alaska,AK,2AM,7
+Arizona,AZ,2AM,6
+Arkansas,AR,2AM,2
+California,CA,2AM,3
+Colorado,CO,2AM,5
+Connecticut,CT,2AM,3
+Delaware,DE,2AM,9
+District of Columbia,DC,2AM,6
+Florida,FL,2AM,19
+Georgia,GA,2AM,9
+Hawaii,HI,2AM,13
+Idaho,ID,2AM,15
+Illinois,IL,2AM,12
+Indiana,IN,2AM,6
+Iowa,IA,2AM,3
+Kansas,KS,2AM,2
+Kentucky,KY,2AM,4
+Louisiana,LA,2AM,4
+Maine,ME,2AM,13
+Maryland,MD,2AM,5
+Massachusetts,MA,2AM,6
+Michigan,MI,2AM,9
+Minnesota,MN,2AM,5
+Mississippi,MS,2AM,2
+Missouri,MO,2AM,6
+Montana,MT,2AM,10
+Nebraska,NE,2AM,18
+Nevada,NV,2AM,2
+New Hampshire,NH,2AM,1
+New Jersey,NJ,2AM,8
+New Mexico,NM,2AM,20
+New York,NY,2AM,19
+North Carolina,NC,2AM,9
+North Dakota,ND,2AM,7
+Ohio,OH,2AM,11
+Oklahoma,OK,2AM,3
+Oregon,OR,2AM,3
+Pennsylvania,PA,2AM,12
+Rhode Island,RI,2AM,10
+South Carolina,SC,2AM,4
+South Dakota,SD,2AM,8
+Tennessee,TN,2AM,6
+Texas,TX,2AM,2
+Utah,UT,2AM,2
+Vermont,VT,2AM,6
+Virginia,VA,2AM,8
+Washington,WA,2AM6
+West Virginia,WV,2AM,18
+Wisconsin,WI,2AM,5
+Wyoming,WY,2AM,5
+Alabama,AL,3AM,4
+Alaska,AK,3AM,7
+Arizona,AZ,3AM,6
+Arkansas,AR,3AM,29
+California,CA,3AM,3
+Colorado,CO,3AM,5
+Connecticut,CT,3AM,3
+Delaware,DE,3AM,9
+District of Columbia,DC,3AM,6
+Florida,FL,3AM,19
+Georgia,GA,3AM,9
+Hawaii,HI,2013,14
+Idaho,ID,2013,16
+Illinois,IL,2013,12
+Indiana,IN,2013,6
+Iowa,IA,2013,3
+Kansas,KS,2013,2
+Kentucky,KY,2013,4
+Louisiana,LA,2013,4
+Maine,ME,2013,13
+Maryland,MD,2013,5
+Massachusetts,MA,2013,6
+Michigan,MI,2013,9
+Minnesota,MN,2013,5
+Mississippi,MS,2013,2
+Missouri,MO,2013,6
+Montana,MT,2013,10
+Nebraska,NE,2013,18
+Nevada,NV,2013,2
+New Hampshire,NH,2013,13
+New Jersey,NJ,2013,8
+New Mexico,NM,2013,20
+New York,NY,2013,19
+North Carolina,NC,2013,9
+North Dakota,ND,2013,7
+Ohio,OH,2013,11
+Oklahoma,OK,2013,3
+Oregon,OR,2013,3
+Pennsylvania,PA,2013,12
+Rhode Island,RI,2013,10
+South Carolina,SC,2013,4
+South Dakota,SD,2013,6
+Tennessee,TN,2013,6
+Texas,TX,2013,2
+Utah,UT,2013,2
+Vermont,VT,2013,6
+Virginia,VA,2013,8
+Washington,WA,2013,6
+West Virginia,WV,2013,18
+Wisconsin,WI,2013,5
+Wyoming,WY,2013,5
+Alabama,AL,2014,4
+Alaska,AK,2014,7
+Arizona,AZ,2014,6
+Arkansas,AR,2014,2
+California,CA,2014,3
+Colorado,CO,2014,5
+Connecticut,CT,2014,3
+Delaware,DE,2014,9
+District of Columbia,DC,2014,6
+Florida,FL,2014,19
+Georgia,GA,2014,10
+Hawaii,HI,2014,14
+Idaho,ID,2014,16
+Illinois,IL,2014,12
+Indiana,IN,2014,6
+Iowa,IA,2014,3
+Kansas,KS,2014,2
+Kentucky,KY,2014,4
+Louisiana,LA,2014,4
+Maine,ME,2014,13
+Maryland,MD,2014,5
+Massachusetts,MA,2014,6
+Michigan,MI,2014,9
+Minnesota,MN,2014,5
+Mississippi,MS,2014,2
+Missouri,MO,2014,6
+Montana,MT,2014,10
+Nebraska,NE,2014,18
+Nevada,NV,2014,2
+New Hampshire,NH,2014,13
+New Jersey,NJ,2014,8
+New Mexico,NM,2014,2
+New York,NY,2014,19
+North Carolina,NC,2014,9
+North Dakota,ND,2014,7
+Ohio,OH,2014,11594408
+Oklahoma,OK,2014,3877499
+Oregon,OR,2014,3968371
+Pennsylvania,PA,2014,12
+Rhode Island,RI,2014,10
+South Carolina,SC,2014,4
+South Dakota,SD,2014,8
+Tennessee,TN,2014,6
+Texas,TX,2014,2
+Utah,UT,2014,2
+Vermont,VT,2014,6
+Virginia,VA,2014,8
+Washington,WA,2014,7
+West Virginia,WV,2014,18
+Wisconsin,WI,2014,5
+Wyoming,WY,2014,5
+Alabama,AL,2015,4
+Alaska,AK,2015,7
+Arizona,AZ,2015,6
+Arkansas,AR,2015,2
+California,CA,2015,3
+Colorado,CO,2015,5
+Connecticut,CT,2015,3
+Delaware,DE,2015,9
+District of Columbia,DC,2015,6
+Florida,FL,2015,2
+Georgia,GA,2015,1
+Hawaii,HI,2015,14
+Idaho,ID,2015,16
+Illinois,IL,2015,12
+Indiana,IN,2015,6
+Iowa,IA,2015,3
+Kansas,KS,2015,2
+Kentucky,KY,2015,4
+Louisiana,LA,2015,4
+Maine,ME,2015,13
+Maryland,MD,2015,5
+Massachusetts,MA,2015,6
+Michigan,MI,2015,99
+Minnesota,MN,2015,5
+Mississippi,MS,2015,2
+Missouri,MO,2015,6
+Montana,MT,2015,10
+Nebraska,NE,2015,1
+Nevada,NV,2015,2883758
+New Hampshire,NH,2015,13
+New Jersey,NJ,2015,8
+New Mexico,NM,2015,20
+New York,NY,2015,19
+North Carolina,NC,2015,10
+North Dakota,ND,2015,7
+Ohio,OH,2015,11605090
+Oklahoma,OK,2015,3907414
+Oregon,OR,2015,4024634
+Pennsylvania,PA,2015,12
+Rhode Island,RI,2015,10
+South Carolina,SC,2015,4
+South Dakota,SD,2015,8
+Tennessee,TN,2015,6
+Texas,TX,2015,2
+Utah,UT,2015,2
+Vermont,VT,2015,6
+Virginia,VA,2015,8
+Washington,WA,2015,7
+West Virginia,WV,2015,18
+Wisconsin,WI,2015,5
+Wyoming,WY,2015,5
+Alabama,AL,2016,4
+Alaska,AK,2016,7
+Arizona,AZ,2016,6
+Arkansas,AR,2016,2
+California,CA,2016,39250017
+Colorado,CO,2016,5
+Connecticut,CT,2016,3576452
+Delaware,DE,2016,952065
+District of Columbia,DC,2016,6
+Florida,FL,2016,20
+Georgia,GA,2016,10
+Hawaii,HI,2016,14
+Idaho,ID,2016,16
+Illinois,IL,2016,12
+Indiana,IN,2016,6
+Iowa,IA,2016,3
+Kansas,KS,2016,2
+Kentucky,KY,2016,44
+Louisiana,LA,2016,4
+Maine,ME,2016,13
+Maryland,MD,2016,6
+Massachusetts,MA,2016,6
+Michigan,MI,2016,9
+Minnesota,MN,2016,5
+Mississippi,MS,2016,2
+Missouri,MO,2016,6
+Montana,MT,2016,10
+Nebraska,NE,2016,19
+Nevada,NV,2016,2
+New Hampshire,NH,2016,13
+New Jersey,NJ,2016,8
+New Mexico,NM,2016,20
+New York,NY,2016,19
+North Carolina,NC,2016,10
+North Dakota,ND,2016,7
+Ohio,OH,2016,11
+Oklahoma,OK,2016,3
+Oregon,OR,2016,4
+Pennsylvania,PA,2016,12
+Rhode Island,RI,2016,10
+South Carolina,SC,2016,4
+South Dakota,SD,2016,8
+Tennessee,TN,2016,6
+Texas,TX,2016,2
+Utah,UT,2016,3
+Vermont,VT,2016,6
+Virginia,VA,2016,88
+Washington,WA,2016,7
+West Virginia,WV,2016,18
+Wisconsin,WI,2016,5
+Wyoming,WY,2016,5
