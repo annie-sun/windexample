@@ -50,57 +50,57 @@ Washington,WA,12AM,6
 West Virginia,WV,12AM,18
 Wisconsin,WI,12AM,5
 Wyoming,WY,12AM,5
-Alabama,AL,1AM,4
-Alaska,AK,1AM,7
-Arizona,AZ,1AM,6
-Arkansas,AR,1AM,2
-California,CA,1AM,3
-Colorado,CO,1AM,5
-Connecticut,CT,1AM,3
-Delaware,DE,1AM,9
-District of Columbia,DC,1AM,6
-Florida,FL,1AM,12
-Georgia,GA,1AM,9
-Hawaii,HI,1AM,13
-Idaho,ID,1AM,15
-Illinois,IL,1AM,128
+Alabama,AL,1AM,6
+Alaska,AK,1AM,9
+Arizona,AZ,1AM,1
+Arkansas,AR,1AM,4
+California,CA,1AM,2
+Colorado,CO,1AM,4
+Connecticut,CT,1AM,4
+Delaware,DE,1AM,10
+District of Columbia,DC,1AM,8
+Florida,FL,1AM,14
+Georgia,GA,1AM,6
+Hawaii,HI,1AM,12
+Idaho,ID,1AM,14
+Illinois,IL,1AM,12
 Indiana,IN,1AM,6
-Iowa,IA,1AM,3
-Kansas,KS,1AM,2
-Kentucky,KY,1AM,4
-Louisiana,LA,1AM,4
-Maine,ME,1AM,13
-Maryland,MD,1AM,5
-Massachusetts,MA,1AM,6
-Michigan,MI,1AM,9
-Minnesota,MN,1AM,5
-Mississippi,MS,1AM,2
-Missouri,MO,1AM,67
-Montana,MT,1AM,9
-Nebraska,NE,1AM,18
-Nevada,NV,1AM,2
+Iowa,IA,1AM,5
+Kansas,KS,1AM,4
+Kentucky,KY,1AM,5
+Louisiana,LA,1AM,1
+Maine,ME,1AM,18
+Maryland,MD,1AM,6
+Massachusetts,MA,1AM,7
+Michigan,MI,1AM,2
+Minnesota,MN,1AM,4
+Mississippi,MS,1AM,9
+Missouri,MO,1AM,6
+Montana,MT,1AM,16
+Nebraska,NE,1AM,14
+Nevada,NV,1AM,12
 New Hampshire,NH,1AM,13
 New Jersey,NJ,1AM,8
-New Mexico,NM,1AM,20
+New Mexico,NM,1AM,2
 New York,NY,1AM,19
-North Carolina,NC,1AM,9
+North Carolina,NC,1AM,8
 North Dakota,ND,1AM,6
-Ohio,OH,1AM,11
+Ohio,OH,1AM,12
 Oklahoma,OK,1AM,3
 Oregon,OR,1AM,3
 Pennsylvania,PA,1AM,12
-Rhode Island,RI,1AM,1
-South Carolina,SC,1AM,4
+Rhode Island,RI,1AM,4
+South Carolina,SC,1AM,6
 South Dakota,SD,1AM,8
-Tennessee,TN,1AM,6
-Texas,TX,1AM,2
-Utah,UT,1AM,2
+Tennessee,TN,1AM,9
+Texas,TX,1AM,1
+Utah,UT,1AM,5
 Vermont,VT,1AM,6
-Virginia,VA,1AM,8
+Virginia,VA,1AM,3
 Washington,WA,1AM,6
-West Virginia,WV,1AM,18
-Wisconsin,WI,1AM,5
-Wyoming,WY,1AM,5
+West Virginia,WV,1AM,17
+Wisconsin,WI,1AM,7
+Wyoming,WY,1AM,2
 Alabama,AL,2AM,4
 Alaska,AK,2AM,7
 Arizona,AZ,2AM,6
@@ -109,7 +109,7 @@ California,CA,2AM,3
 Colorado,CO,2AM,5
 Connecticut,CT,2AM,3
 Delaware,DE,2AM,9
-District of Columbia,DC,2AM,6
+District of Columbia,DC,2AM,8
 Florida,FL,2AM,19
 Georgia,GA,2AM,9
 Hawaii,HI,2AM,13
@@ -118,10 +118,10 @@ Illinois,IL,2AM,12
 Indiana,IN,2AM,6
 Iowa,IA,2AM,3
 Kansas,KS,2AM,2
-Kentucky,KY,2AM,4
+Kentucky,KY,2AM,1
 Louisiana,LA,2AM,4
 Maine,ME,2AM,13
-Maryland,MD,2AM,5
+Maryland,MD,2AM,15
 Massachusetts,MA,2AM,6
 Michigan,MI,2AM,9
 Minnesota,MN,2AM,5
@@ -149,7 +149,7 @@ Utah,UT,2AM,2
 Vermont,VT,2AM,6
 Virginia,VA,2AM,8
 Washington,WA,2AM6
-West Virginia,WV,2AM,18
+West Virginia,WV,2AM,8
 Wisconsin,WI,2AM,5
 Wyoming,WY,2AM,5
 Alabama,AL,3AM,4
@@ -160,14 +160,14 @@ California,CA,3AM,3
 Colorado,CO,3AM,5
 Connecticut,CT,3AM,3
 Delaware,DE,3AM,9
-District of Columbia,DC,3AM,6
+District of Columbia,DC,3AM,2
 Florida,FL,3AM,19
 Georgia,GA,3AM,9
 Hawaii,HI,3AM,14
 Idaho,ID,3AM,16
 Illinois,IL,3AM,12
 Indiana,IN,3AM,6
-Iowa,IA,3AM,3
+Iowa,IA,3AM,20
 Kansas,KS,3AM,2
 Kentucky,KY,3AM,4
 Louisiana,LA,3AM,4
@@ -179,7 +179,7 @@ Minnesota,MN,3AM,5
 Mississippi,MS,3AM,2
 Missouri,MO,3AM,6
 Montana,MT,3AM,10
-Nebraska,NE,3AM,18
+Nebraska,NE,3AM,8
 Nevada,NV,3AM,2
 New Hampshire,NH,3AM,13
 New Jersey,NJ,3AM,8
@@ -188,12 +188,12 @@ New York,NY,3AM,19
 North Carolina,NC,3AM,9
 North Dakota,ND,3AM,7
 Ohio,OH,3AM,11
-Oklahoma,OK,3AM,3
+Oklahoma,OK,3AM,13
 Oregon,OR,3AM,3
 Pennsylvania,PA,3AM,12
 Rhode Island,RI,3AM,10
 South Carolina,SC,3AM,4
-South Dakota,SD,3AM,6
+South Dakota,SD,3AM,16
 Tennessee,TN,3AM,6
 Texas,TX,3AM,2
 Utah,UT,3AM,2
@@ -209,7 +209,7 @@ Arizona,AZ,4AM,6
 Arkansas,AR,4AM,2
 California,CA,4AM,3
 Colorado,CO,4AM,5
-Connecticut,CT,4AM,3
+Connecticut,CT,4AM,13
 Delaware,DE,2014,9
 District of Columbia,DC,4AM,6
 Florida,FL,4AM,19
@@ -217,7 +217,7 @@ Georgia,GA,4AM,10
 Hawaii,HI,4AM,14
 Idaho,ID,2014,16
 Illinois,IL,4AM,12
-Indiana,IN,4AM,6
+Indiana,IN,4AM,9
 Iowa,IA,4AM,3
 Kansas,KS,4AM,2
 Kentucky,KY,4AM,4
@@ -227,7 +227,7 @@ Maryland,MD,4AM,5
 Massachusetts,MA,4AM,6
 Michigan,MI,4AM,9
 Minnesota,MN,4AM,5
-Mississippi,MS,4AM,2
+Mississippi,MS,4AM,5
 Missouri,MO,4AM,6
 Montana,MT,4AM,10
 Nebraska,NE,4AM,18
@@ -236,7 +236,7 @@ New Hampshire,NH,4AM,13
 New Jersey,NJ,4AM,8
 New Mexico,NM,4AM,2
 New York,NY,4AM,19
-North Carolina,NC,4AM,9
+North Carolina,NC,4AM,10
 North Dakota,ND,4AM,7
 Ohio,OH,4AM,11594408
 Oklahoma,OK,4AM,3877499
@@ -248,9 +248,9 @@ South Dakota,SD,4AM,8
 Tennessee,TN,4AM,6
 Texas,TX,4AM,2
 Utah,UT,4AM,2
-Vermont,VT,4AM,6
+Vermont,VT,4AM,4
 Virginia,VA,4AM,8
 Washington,WA,4AM,7
 West Virginia,WV,4AM,18
 Wisconsin,WI,4AM,5
-Wyoming,WY,4AM,5
+Wyoming,WY,4AM,15
