@@ -695,7 +695,7 @@ New Hampshire,NH,1PM,13
 New Jersey,NJ,1PM,8
 New Mexico,NM,1PM,2
 New York,NY,1PM,19
-North Carolina,NC,1PM,10
+North Carolina,NC,1PM,15
 North Dakota,ND,1PM,7
 Ohio,OH,1PM,11
 Oklahoma,OK,1PM,3
@@ -784,34 +784,85 @@ Kansas,KS,3PM,2
 Kentucky,KY,3PM,4
 Louisiana,LA,3PM,4
 Maine,ME,3PM,13
-Maryland,MD,11AM,5
-Massachusetts,MA,11AM,6
-Michigan,MI,11AM,9
-Minnesota,MN,11AM,5
-Mississippi,MS,11AM,5
-Missouri,MO,11AM,6
-Montana,MT,11AM,10
-Nebraska,NE,11AM,18
-Nevada,NV,11AM,2
-New Hampshire,NH,11AM,13
-New Jersey,NJ,11AM,8
-New Mexico,NM,11AM,2
-New York,NY,11AM,19
-North Carolina,NC,11AM,10
-North Dakota,ND,11AM,7
-Ohio,OH,11AM,11594408
-Oklahoma,OK,11AM,3
-Oregon,OR,11AM,3968371
-Pennsylvania,PA,11AM,12
-Rhode Island,RI,11AM,10
-South Carolina,SC,11AM,4
-South Dakota,SD,11AM,8
-Tennessee,TN,11AM,6
-Texas,TX,11AM,2
-Utah,UT,11AM,2
-Vermont,VT,11AM,4
-Virginia,VA,11AM,8
-Washington,WA,11AM,7
-West Virginia,WV,11AM,18
-Wisconsin,WI,11AM,5
-Wyoming,WY,11AM,15
+Maryland,MD,3PM,5
+Massachusetts,MA,3PM,6
+Michigan,MI,3PM,9
+Minnesota,MN,3PM,5
+Mississippi,MS,3PM,5
+Missouri,MO,3PM,6
+Montana,MT,3PM,10
+Nebraska,NE,3PM,18
+Nevada,NV,3PM,2
+New Hampshire,NH,3PM,13
+New Jersey,NJ,3PM,8
+New Mexico,NM,3PM,2
+New York,NY,3PM,19
+North Carolina,NC,3PM,10
+North Dakota,ND,3PM,14
+Ohio,OH,3PM,11594408
+Oklahoma,OK,3PM,3
+Oregon,OR,3PM,3968371
+Pennsylvania,PA,3PM,12
+Rhode Island,RI,3PM,10
+South Carolina,SC,3PM,8
+South Dakota,SD,3PM,8
+Tennessee,TN,3PM,9
+Texas,TX,3PM,2
+Utah,UT,3PM,2
+Vermont,VT,3PM,4
+Virginia,VA,3PM,8
+Washington,WA,3PM,17
+West Virginia,WV,3PM,18
+Wisconsin,WI,3PM,5
+Wyoming,WY,3PM,15
+Alabama,AL,4PM,4
+Alaska,AK,4PM,7
+Arizona,AZ,4PM,6
+Arkansas,AR,4PM,2
+California,CA,4PM,3
+Colorado,CO,4PM,5
+Connecticut,CT,3PM,13
+Delaware,DE,3PM,9
+District of Columbia,DC,4PM,6
+Florida,FL,4PM,19
+Georgia,GA,4PM,10
+Hawaii,HI,4PM,14
+Idaho,ID,4PM,16
+Illinois,IL,4PM,12
+Indiana,IN,4PM,9
+Iowa,IA,4PM,13
+Kansas,KS,4PM,2
+Kentucky,KY,4PM,4
+Louisiana,LA,4PM,4
+Maine,ME,4PM,13
+Maryland,MD,4PM,9
+Massachusetts,MA,4PM,6
+Michigan,MI,4PM,9
+Minnesota,MN,4PM,5
+Mississippi,MS,4PM,5
+Missouri,MO,4PM,16
+Montana,MT,4PM,10
+Nebraska,NE,4PM,18
+Nevada,NV,4PM,2
+New Hampshire,NH,4PM,13
+New Jersey,NJ,4PM,8
+New Mexico,NM,4PM,2
+New York,NY,4PM,15
+North Carolina,NC,4PM,10
+North Dakota,ND,4PM,7
+Ohio,OH,4PM,14
+Oklahoma,OK,4PM,3
+Oregon,OR,4PM,3
+Pennsylvania,PA,4PM,12
+Rhode Island,RI,4PM,10
+South Carolina,SC,4PM,4
+South Dakota,SD,4PM,8
+Tennessee,TN,4PM,6
+Texas,TX,4PM,2
+Utah,UT,4PM,12
+Vermont,VT,4PM,4
+Virginia,VA,4PM,8
+Washington,WA,4PM,7
+West Virginia,WV,4PM,16
+Wisconsin,WI,4PM,5
+Wyoming,WY,4PM,12
