@@ -362,13 +362,13 @@ Arizona,AZ,7AM,6
 Arkansas,AR,7AM,2
 California,CA,7AM,3
 Colorado,CO,7AM,5
-Connecticut,CT,7AM,3
+Connecticut,CT,7AM,13
 Delaware,DE,7AM,9
 District of Columbia,DC,7AM,8
 Florida,FL,7AM,19
 Georgia,GA,7AM,9
 Hawaii,HI,7AM,13
-Idaho,ID,7AM,15
+Idaho,ID,7AM,5
 Illinois,IL,7AM,12
 Indiana,IN,7AM,6
 Iowa,IA,7AM,3
@@ -380,17 +380,17 @@ Maryland,MD,7AM,15
 Massachusetts,MA,7AM,6
 Michigan,MI,7AM,9
 Minnesota,MN,7AM,5
-Mississippi,MS,7AM,2
+Mississippi,MS,7AM,12
 Missouri,MO,7AM,6
 Montana,MT,7AM,10
-Nebraska,NE,7AM,18
+Nebraska,NE,7AM,8
 Nevada,NV,7AM,2
 New Hampshire,NH,7AM,1
 New Jersey,NJ,7AM,8
-New Mexico,NM,7AM,20
+New Mexico,NM,7AM,2
 New York,NY,7AM,19
 North Carolina,NC,7AM,9
-North Dakota,ND,7AM,7
+North Dakota,ND,7AM,20
 Ohio,OH,7AM,11
 Oklahoma,OK,7AM,3
 Oregon,OR,7AM,3
@@ -404,13 +404,13 @@ Utah,UT,7AM,2
 Vermont,VT,7AM,6
 Virginia,VA,7AM,8
 Washington,WA,7AM6
-West Virginia,WV,7AM,8
+West Virginia,WV,7AM,18
 Wisconsin,WI,7AM,5
 Wyoming,WY,7AM,5
 Alabama,AL,8AM,4
 Alaska,AK,8AM,7
 Arizona,AZ,8AM,6
-Arkansas,AR,8AM,29
+Arkansas,AR,8AM,2
 California,CA,8AM,3
 Colorado,CO,8AM,5
 Connecticut,CT,8AM,3
@@ -502,7 +502,7 @@ South Carolina,SC,9AM,4
 South Dakota,SD,9AM,8
 Tennessee,TN,9AM,6
 Texas,TX,9AM,2
-Utah,UT,9AM,2
+Utah,UT,9AM,12
 Vermont,VT,9AM,4
 Virginia,VA,9AM,8
 Washington,WA,9AM,7
@@ -517,7 +517,7 @@ California,CA,10AM,3
 Colorado,CO,10AM,5
 Connecticut,CT,10AM,3
 Delaware,DE,10AM,9
-District of Columbia,DC,10AM,2
+District of Columbia,DC,10AM,12
 Florida,FL,10AM,19
 Georgia,GA,10AM,9
 Hawaii,HI,10AM,14
@@ -527,7 +527,7 @@ Indiana,IN,10AM,6
 Iowa,IA,10AM,20
 Kansas,KS,10AM,2
 Kentucky,KY,10AM,4
-Louisiana,LA,10AM,4
+Louisiana,LA,10AM,14
 Maine,ME,10AM,13
 Maryland,MD,10AM,5
 Massachusetts,MA,10AM,6
@@ -540,17 +540,17 @@ Nebraska,NE,10AM,8
 Nevada,NV,10AM,2
 New Hampshire,NH,10AM,13
 New Jersey,NJ,10AM,8
-New Mexico,NM,10AM,20
+New Mexico,NM,10AM,2
 New York,NY,10AM,19
 North Carolina,NC,10AM,9
-North Dakota,ND,10AM,7
+North Dakota,ND,10AM,17
 Ohio,OH,10AM,11
 Oklahoma,OK,10AM,13
 Oregon,OR,10AM,3
 Pennsylvania,PA,10AM,12
 Rhode Island,RI,10AM,10
 South Carolina,SC,10AM,4
-South Dakota,SD,10AM,16
+South Dakota,SD,10AM,6
 Tennessee,TN,10AM,6
 Texas,TX,10AM,2
 Utah,UT,10AM,2
@@ -561,7 +561,7 @@ West Virginia,WV,10AM,18
 Wisconsin,WI,10AM,5
 Wyoming,WY,10AM,5
 Alabama,AL,11AM,4
-Alaska,AK,11AM,7
+Alaska,AK,11AM,17
 Arizona,AZ,11AM,6
 Arkansas,AR,11AM,2
 California,CA,11AM,3
@@ -576,7 +576,7 @@ Idaho,ID,11AM,16
 Illinois,IL,11AM,12
 Indiana,IN,11AM,9
 Iowa,IA,11AM,3
-Kansas,KS,11AM,2
+Kansas,KS,11AM,12
 Kentucky,KY,11AM,4
 Louisiana,LA,11AM,4
 Maine,ME,11AM,13
@@ -595,9 +595,9 @@ New Mexico,NM,11AM,2
 New York,NY,11AM,19
 North Carolina,NC,11AM,10
 North Dakota,ND,11AM,7
-Ohio,OH,11AM,11594408
+Ohio,OH,11AM,11
 Oklahoma,OK,11AM,3
-Oregon,OR,11AM,3968371
+Oregon,OR,11AM,3
 Pennsylvania,PA,11AM,12
 Rhode Island,RI,11AM,10
 South Carolina,SC,11AM,4
@@ -635,7 +635,7 @@ Maryland,MD,12PM,5
 Massachusetts,MA,12PM,6
 Michigan,MI,12PM,9
 Minnesota,MN,12PM,5
-Mississippi,MS,12PM,2
+Mississippi,MS,12PM,12
 Missouri,MO,12PM,6
 Montana,MT,12PM,10
 Nebraska,NE,12PM,8
@@ -705,9 +705,9 @@ Rhode Island,RI,1PM,10
 South Carolina,SC,1PM,4
 South Dakota,SD,1PM,8
 Tennessee,TN,1PM,6
-Texas,TX,1PM,2
+Texas,TX,1PM,12
 Utah,UT,1PM,2
-Vermont,VT,1PM,4
+Vermont,VT,1PM,14
 Virginia,VA,1PM,8
 Washington,WA,1PM,7
 West Virginia,WV,1PM,18
@@ -804,7 +804,7 @@ Oklahoma,OK,3PM,3
 Oregon,OR,3PM,3968371
 Pennsylvania,PA,3PM,12
 Rhode Island,RI,3PM,10
-South Carolina,SC,3PM,8
+South Carolina,SC,3PM,18
 South Dakota,SD,3PM,8
 Tennessee,TN,3PM,9
 Texas,TX,3PM,2
@@ -821,7 +821,7 @@ Arizona,AZ,4PM,6
 Arkansas,AR,4PM,2
 California,CA,4PM,3
 Colorado,CO,4PM,5
-Connecticut,CT,3PM,13
+Connecticut,CT,3PM,3
 Delaware,DE,3PM,9
 District of Columbia,DC,4PM,6
 Florida,FL,4PM,19
@@ -846,7 +846,7 @@ Nebraska,NE,4PM,18
 Nevada,NV,4PM,2
 New Hampshire,NH,4PM,13
 New Jersey,NJ,4PM,8
-New Mexico,NM,4PM,2
+New Mexico,NM,4PM,20
 New York,NY,4PM,15
 North Carolina,NC,4PM,10
 North Dakota,ND,4PM,7
@@ -865,4 +865,4 @@ Virginia,VA,4PM,8
 Washington,WA,4PM,7
 West Virginia,WV,4PM,16
 Wisconsin,WI,4PM,5
-Wyoming,WY,4PM,12
+Wyoming,WY,4PM,2
