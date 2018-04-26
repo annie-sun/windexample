@@ -1070,156 +1070,207 @@ Washington,WA,8AM,6
 West Virginia,WV,8AM,8
 Wisconsin,WI,8AM,5
 Wyoming,WY,8AM,5
-Alabama,AL,4AM,4
-Alaska,AK,4AM,7
-Arizona,AZ,4AM,6
-Arkansas,AR,4AM,2
-California,CA,4AM,13
-Colorado,CO,4AM,5
-Connecticut,CT,4AM,13
-Delaware,DE,2014,9
-District of Columbia,DC,4AM,6
-Florida,FL,4AM,19
-Georgia,GA,4AM,10
-Hawaii,HI,4AM,14
-Idaho,ID,2014,16
-Illinois,IL,4AM,12
-Indiana,IN,4AM,9
-Iowa,IA,4AM,13
-Kansas,KS,4AM,2
-Kentucky,KY,4AM,4
-Louisiana,LA,4AM,4
-Maine,ME,4AM,13
-Maryland,MD,4AM,5
-Massachusetts,MA,4AM,6
-Michigan,MI,4AM,9
-Minnesota,MN,4AM,5
-Mississippi,MS,4AM,5
-Missouri,MO,4AM,6
-Montana,MT,4AM,10
-Nebraska,NE,4AM,8
-Nevada,NV,4AM,2
-New Hampshire,NH,4AM,13
-New Jersey,NJ,4AM,8
-New Mexico,NM,4AM,2
-New York,NY,4AM,19
-North Carolina,NC,4AM,10
-North Dakota,ND,4AM,7
-Ohio,OH,4AM,11594408
-Oklahoma,OK,4AM,3877499
-Oregon,OR,4AM,3968371
-Pennsylvania,PA,4AM,12
-Rhode Island,RI,4AM,10
-South Carolina,SC,4AM,4
-South Dakota,SD,4AM,8
-Tennessee,TN,4AM,6
-Texas,TX,4AM,12
-Utah,UT,4AM,2
-Vermont,VT,4AM,4
-Virginia,VA,4AM,18
-Washington,WA,4AM,7
-West Virginia,WV,4AM,8
-Wisconsin,WI,4AM,5
-Wyoming,WY,4AM,15
-Alabama,AL,5AM,4
-Alaska,AK,5AM,7
-Arizona,AZ,5AM,6
-Arkansas,AR,5AM,12
-California,CA,5AM,3
-Colorado,CO,5AM,5
-Connecticut,CT,5AM,13
-Delaware,DE,5AM,8
-District of Columbia,DC,5AM,6
-Florida,FL,5AM,8
-Georgia,GA,5AM,19
-Hawaii,HI,5AM,3
-Idaho,ID,5AM,15
-Illinois,IL,5AM,12
-Indiana,IN,5AM,6
-Iowa,IA,5AM,3
-Kansas,KS,5AM,2
-Kentucky,KY,5AM,4
-Louisiana,LA,5AM,4
-Maine,ME,12AM,13
-Maryland,MD,5AM,5
-Massachusetts,MA,5AM,7
-Michigan,MI,5AM,9
-Minnesota,MN,5AM,15
-Mississippi,MS,5AM,2
-Missouri,MO,5AM,5
-Montana,MT,5AM,19
-Nebraska,NE,5AM,18
-Nevada,NV,5AM,2
-New Hampshire,NH,5AM,13
-New Jersey,NJ,5AM,1
-New Mexico,NM,5AM,2
-New York,NY,5AM,19
-North Carolina,NC,5AM,9
-North Dakota,ND,5AM,1
-Ohio,OH,5AM,1
-Oklahoma,OK,5AM,3
-Oregon,OR,5AM,3
-Pennsylvania,PA,5AM,12
-Rhode Island,RI,5AM,10
-South Carolina,SC,5AM,4
-South Dakota,SD,5AM,8
-Tennessee,TN,5AM,6
-Texas,TX,5AM,2
-Utah,UT,5AM,2
-Vermont,VT,5AM,6
-Virginia,VA,5AM,8
-Washington,WA,5AM,6
-West Virginia,WV,5AM,18
-Wisconsin,WI,5AM,5
-Wyoming,WY,5AM,5
-Alabama,AL,6AM,6
-Alaska,AK,6AM,9
-Arizona,AZ,6AM,1
-Arkansas,AR,6AM,4
-California,CA,6AM,2
-Colorado,CO,6AM,4
-Connecticut,CT,6AM,4
-Delaware,DE,6AM,10
-District of Columbia,DC,6AM,8
-Florida,FL,6AM,14
-Georgia,GA,6AM,6
-Hawaii,HI,6AM,12
-Idaho,ID,6AM,14
-Illinois,IL,6AM,12
-Indiana,IN,6AM,6
-Iowa,IA,6AM,5
-Kansas,KS,6AM,4
-Kentucky,KY,6AM,5
-Louisiana,LA,6AM,1
-Maine,ME,6AM,18
-Maryland,MD,6AM,6
-Massachusetts,MA,6AM,7
-Michigan,MI,6AM,2
-Minnesota,MN,6AM,4
-Mississippi,MS,6AM,9
-Missouri,MO,6AM,16
-Montana,MT,6AM,16
-Nebraska,NE,6AM,14
-Nevada,NV,6AM,2
-New Hampshire,NH,6AM,13
-New Jersey,NJ,6AM,18
-New Mexico,NM,6AM,2
-New York,NY,6AM,13
-North Carolina,NC,6AM,8
-North Dakota,ND,6AM,5
-Ohio,OH,6AM,12
-Oklahoma,OK,6AM,13
-Oregon,OR,6AM,3
-Pennsylvania,PA,6AM,12
-Rhode Island,RI,6AM,4
-South Carolina,SC,6AM,6
-South Dakota,SD,6AM,8
-Tennessee,TN,6AM,10
-Texas,TX,6AM,13
-Utah,UT,6AM,2
-Vermont,VT,6AM,18
-Virginia,VA,6AM,6
-Washington,WA,6AM,6
-West Virginia,WV,6AM,2
-Wisconsin,WI,6AM,9
-Wyoming,WY,6AM,5
+Alabama,AL,8AM,4
+Alaska,AK,8AM,7
+Arizona,AZ,8AM,6
+Arkansas,AR,8AM,2
+California,CA,8AM,13
+Colorado,CO,8AM,5
+Connecticut,CT,8AM,13
+Delaware,DE,8AM,9
+District of Columbia,DC,8AM,6
+Florida,FL,8AM,19
+Georgia,GA,8AM,10
+Hawaii,HI,8AM,14
+Idaho,ID,8AM,16
+Illinois,IL,8AM,12
+Indiana,IN,8AM,9
+Iowa,IA,8AM,13
+Kansas,KS,8AM,2
+Kentucky,KY,8AM,4
+Louisiana,LA,8AM,4
+Maine,ME,8AM,13
+Maryland,MD,8AM,5
+Massachusetts,MA,8AM,6
+Michigan,MI,8AM,9
+Minnesota,MN,8AM,5
+Mississippi,MS,8AM,5
+Missouri,MO,8AM,6
+Montana,MT,8AM,10
+Nebraska,NE,8AM,8
+Nevada,NV,8AM,2
+New Hampshire,NH,8AM,13
+New Jersey,NJ,8AM,8
+New Mexico,NM,8AM,2
+New York,NY,8AM,19
+North Carolina,NC,8AM,10
+North Dakota,ND,8AM,7
+Ohio,OH,8AM,11
+Oklahoma,OK,8AM,3877499
+Oregon,OR,8AM,3968371
+Pennsylvania,PA,8AM,12
+Rhode Island,RI,8AM,10
+South Carolina,SC,8AM,4
+South Dakota,SD,8AM,8
+Tennessee,TN,8AM,6
+Texas,TX,8AM,12
+Utah,UT,8AM,2
+Vermont,VT,8AM,4
+Virginia,VA,8AM,18
+Washington,WA,8AM,7
+West Virginia,WV,8AM,8
+Wisconsin,WI,8AM,5
+Wyoming,WY,8AM,15
+Alabama,AL,9AM,4
+Alaska,AK,9AM,7
+Arizona,AZ,9AM,6
+Arkansas,AR,9AM,12
+California,CA,9AM,3
+Colorado,CO,9AM,5
+Connecticut,CT,9AM,13
+Delaware,DE,9AM,8
+District of Columbia,DC,9AM,6
+Florida,FL,9AM,8
+Georgia,GA,9AM,19
+Hawaii,HI,9AM,3
+Idaho,ID,9AM,15
+Illinois,IL,9AM,12
+Indiana,IN,9AM,6
+Iowa,IA,9AM,3
+Kansas,KS,9AM,2
+Kentucky,KY,9AM,4
+Louisiana,LA,9AM,4
+Maine,ME,9AM,13
+Maryland,MD,9AM,5
+Massachusetts,MA,9AM,7
+Michigan,MI,9AM,9
+Minnesota,MN,9AM,15
+Mississippi,MS,9AM,2
+Missouri,MO,9AM,5
+Montana,MT,9AM,19
+Nebraska,NE,9AM,18
+Nevada,NV,9AM,2
+New Hampshire,NH,9AM,13
+New Jersey,NJ,9AM,1
+New Mexico,NM,9AM,2
+New York,NY,9AM,19
+North Carolina,NC,9AM,9
+North Dakota,ND,9AM,1
+Ohio,OH,9AM,1
+Oklahoma,OK,9AM,3
+Oregon,OR,9AM,3
+Pennsylvania,PA,9AM,12
+Rhode Island,RI,9AM,10
+South Carolina,SC,9AM,4
+South Dakota,SD,9AM,8
+Tennessee,TN,9AM,6
+Texas,TX,9AM,2
+Utah,UT,9AM,2
+Vermont,VT,9AM,6
+Virginia,VA,9AM,8
+Washington,WA,9AM,6
+West Virginia,WV,9AM,18
+Wisconsin,WI,9AM,5
+Wyoming,WY,9AM,5
+Alabama,AL,10AM,6
+Alaska,AK,10AM,9
+Arizona,AZ,10AM,1
+Arkansas,AR,10AM,4
+California,CA,10AM,2
+Colorado,CO,10AM,4
+Connecticut,CT,10AM,4
+Delaware,DE,10AM,10
+District of Columbia,DC,10AM,8
+Florida,FL,10AM,14
+Georgia,GA,10AM,6
+Hawaii,HI,10AM,12
+Idaho,ID,10AM,14
+Illinois,IL,10AM,12
+Indiana,IN,10AM,6
+Iowa,IA,10AM,5
+Kansas,KS,10AM,4
+Kentucky,KY,10AM,5
+Louisiana,LA,10AM,1
+Maine,ME,10AM,18
+Maryland,MD,10AM,6
+Massachusetts,MA,10AM,7
+Michigan,MI,10AM,2
+Minnesota,MN,10AM,4
+Mississippi,MS,10AM,9
+Missouri,MO,10AM,16
+Montana,MT,10AM,16
+Nebraska,NE,10AM,14
+Nevada,NV,10AM,2
+New Hampshire,NH,10AM,13
+New Jersey,NJ,10AM,18
+New Mexico,NM,10AM,2
+New York,NY,10AM,13
+North Carolina,NC,10AM,8
+North Dakota,ND,10AM,5
+Ohio,OH,10AM,12
+Oklahoma,OK,10AM,13
+Oregon,OR,10AM,3
+Pennsylvania,PA,10AM,12
+Rhode Island,RI,10AM,4
+South Carolina,SC,10AM,6
+South Dakota,SD,10AM,8
+Tennessee,TN,10AM,10
+Texas,TX,10AM,13
+Utah,UT,10AM,2
+Vermont,VT,10AM,18
+Virginia,VA,10AM,6
+Washington,WA,10AM,6
+West Virginia,WV,10AM,2
+Wisconsin,WI,10AM,9
+Wyoming,WY,10AM,5
+Alabama,AL,11AM,6
+Alaska,AK,11AM,9
+Arizona,AZ,11AM,1
+Arkansas,AR,11AM,4
+California,CA,11AM,2
+Colorado,CO,11AM,4
+Connecticut,CT,11AM,4
+Delaware,DE,11AM,10
+District of Columbia,DC,11AM,8
+Florida,FL,11AM,14
+Georgia,GA,11AM,6
+Hawaii,HI,11AM,12
+Idaho,ID,11AM,14
+Illinois,IL,11AM,12
+Indiana,IN,10AM,6
+Iowa,IA,11AM,5
+Kansas,KS,11AM,4
+Kentucky,KY,11AM,5
+Louisiana,LA,11AM,1
+Maine,ME,11AM,18
+Maryland,MD,11AM,6
+Massachusetts,MA,11AM,7
+Michigan,MI,11AM,2
+Minnesota,MN,11AM,4
+Mississippi,MS,11AM,9
+Missouri,MO,11AM,16
+Montana,MT,11AM,16
+Nebraska,NE,11AM,14
+Nevada,NV,11AM,2
+New Hampshire,NH,11AM,13
+New Jersey,NJ,11AM,18
+New Mexico,NM,11AM,2
+New York,NY,11AM,13
+North Carolina,NC,11AM,8
+North Dakota,ND,11AM,5
+Ohio,OH,11AM,12
+Oklahoma,OK,11AM,13
+Oregon,OR,11AM,3
+Pennsylvania,PA,11AM,12
+Rhode Island,RI,11AM,4
+South Carolina,SC,11AM,6
+South Dakota,SD,11AM,8
+Tennessee,TN,11AM,10
+Texas,TX,11AM,13
+Utah,UT,11AM,2
+Vermont,VT,11AM,18
+Virginia,VA,11AM,6
+Washington,WA,11AM,6
+West Virginia,WV,11AM,2
+Wisconsin,WI,11AM,9
+Wyoming,WY,11AM,5
